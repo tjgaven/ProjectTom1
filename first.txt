@@ -1,0 +1,13 @@
+
+git help git                      ; display help index
+git help <command>                ;  help on specific command
+
+git --version                     ; shows version of git
+
+// from a root folder, one level UP from new project..
+
+git init project1               ; creates a new repo, called project1
+
+can do a ls .git  to see the hidden git files ( aka the repo files )
+
+git status                ;  shows which files are tracked, committed...   good t do frequently
